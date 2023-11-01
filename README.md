@@ -22,5 +22,7 @@
 | 구은성 | 김선진 | 김지헌 |
 | :---: | :---: | :---: |
 | [<img src = "https://github.com/Koo-EunSung.png" width = "100px">](https://github.com/Koo-EunSung) | [<img src = "https://github.com/creator999999.png" width = "100px">](https://github.com/creator999999) | [<img src = "https://github.com/zennnooo.png" width = "100px">](https://github.com/zennnooo)
+
 | 손성호 | 최혜림 | 하시윤 |
+ :---: | :---: | :---: |
 | [<img src = "https://github.com/SungHHo.png" width = "100px">](https://github.com/SungHHo) | [<img src = "https://github.com/hyeriimm.png" width = "100px">](https://github.com/hyeriimm) | [<img src = "https://github.com/shunnnl.png" width = "100px">](https://github.com/shunnnl) |
